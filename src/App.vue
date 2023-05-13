@@ -5,6 +5,7 @@
       <router-link to="/feed"> Feed </router-link> |
       <router-link to="/register"> Register </router-link> |
       <router-link to="/sign-in"> Login </router-link> |
+      <router-link to="/awlwl"> AWLWL </router-link>
     </nav>
     <router-view />
   </div>

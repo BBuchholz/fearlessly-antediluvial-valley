@@ -1,0 +1,7 @@
+// per: https://stackoverflow.com/a/74590966/670768
+
+{
+    "compilerOptions": {
+      "allowJs": true
+    }
+ }
