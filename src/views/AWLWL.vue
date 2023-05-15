@@ -1,5 +1,5 @@
 <template>
-  <h1> AWLWL Carteography </h1>
+  <h1> AWLWL CarteoGraphy </h1>
   
   <table class="tg">
   <thead>
@@ -11,32 +11,68 @@
   </thead>
   <tbody>
     <tr>
-      <td class="tg-baqh">4</td>
-      <td class="tg-baqh">5</td>
-      <td class="tg-baqh"></td>
-      <td class="tg-baqh">8</td>
-      <td class="tg-baqh">1</td>
+      <td class="tg-baqh">
+        <router-link to="4">4</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="5">5</router-link>
+      </td>
+      <td class="tg-baqh">
+
+      </td>
+      <td class="tg-baqh">
+        <router-link to="8">8</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="1">1</router-link>
+      </td>
     </tr>
     <tr>
-      <td class="tg-baqh">6</td>
-      <td class="tg-baqh">3</td>
+      <td class="tg-baqh">
+        <router-link to="6">6</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="3">3</router-link>
+      </td>
       <td class="tg-baqh"></td>
-      <td class="tg-baqh">2</td>
-      <td class="tg-baqh">7</td>
+      <td class="tg-baqh">
+        <router-link to="2">2</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="7">7</router-link>
+      </td>
     </tr>
     <tr>
-      <td class="tg-baqh">2</td>
-      <td class="tg-baqh">7</td>
-      <td class="tg-baqh"></td>
-      <td class="tg-baqh">6</td>
-      <td class="tg-baqh">3</td>
+      <td class="tg-baqh">
+        <router-link to="2">2</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="7">7</router-link>
+      </td>
+      <td class="tg-baqh">
+        
+      </td>
+      <td class="tg-baqh">
+        <router-link to="6">6</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="3">3</router-link>
+      </td>
     </tr>
     <tr>
-      <td class="tg-baqh">8</td>
-      <td class="tg-baqh">1</td>
+      <td class="tg-baqh">
+        <router-link to="8">8</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="1">1</router-link>
+      </td>
       <td class="tg-baqh"></td>
-      <td class="tg-baqh">4</td>
-      <td class="tg-baqh">5</td>
+      <td class="tg-baqh">
+        <router-link to="4">4</router-link>
+      </td>
+      <td class="tg-baqh">
+        <router-link to="5">5</router-link>
+      </td>
     </tr>
   </tbody>
   </table>  
