@@ -16,7 +16,7 @@
       <router-link to="1">1</router-link>
     </td>
     <td class="tg-e45j">
-      <router-link to="2">2</router-link>
+      <router-link to="1">1</router-link>
     </td>
   </tr>
 </tbody>
