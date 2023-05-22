@@ -9,15 +9,79 @@
   </p>
   <p>Also, add PHLAT associations</p>
   <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-e45j">Ψ</th>
+        <th class="tg-e45j">Δ</th>
+        <th class="tg-e45j">Σ</th>
+        <th class="tg-e45j">Θ</th>
+        <th class="tg-e45j">Φ</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j">
+          <router-link to="3">3</router-link>
+          <router-link to="1">1</router-link>
+        </td>
+        <td class="tg-e45j">
+          <router-link to="4">4</router-link>
+        </td>
+        <td class="tg-e45j">
+          <router-link to="3">3</router-link>
+        </td>
+        <td class="tg-e45j">
+          <router-link to="1">1</router-link>
+        </td>
+      </tr>
+      <tr>
+        <td class="tg-e45j">
+          <router-link to="2">2</router-link>
+          <router-link to="2">2</router-link>
+        </td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j">
+          <router-link to="4">4</router-link>
+        </td>
+        <td class="tg-e45j">
+          <router-link to="4">4</router-link>
+        </td>
+        <td class="tg-e45j">
+          <router-link to="0">0</router-link>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p></p>
+  <table class="tg">
   <thead>
     <tr>
       <th class="tg-e45j">Ψ</th>
       <th class="tg-e45j">Δ</th>
       <th class="tg-e45j">Σ</th>
       <th class="tg-e45j">Θ</th>
+      <th class="tg-e45j">Φ</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="tg-e45j">
+        <router-link to="0">0</router-link>
+      </td>
+      <td class="tg-e45j">
+        <router-link to="3">3</router-link>
+      </td>
+      <td class="tg-e45j">
+        <router-link to="3">3</router-link>
+      </td>
+      <td class="tg-e45j">
+        <router-link to="0">0</router-link>
+      </td>
+      <td class="tg-e45j">
+        <router-link to="2">2</router-link>
+      </td>
+    </tr>
     <tr>
       <td class="tg-e45j">
         <router-link to="2">2</router-link>
@@ -30,6 +94,9 @@
       </td>
       <td class="tg-e45j">
         <router-link to="2">2</router-link>
+      </td>
+      <td class="tg-e45j">
+        <router-link to="0">0</router-link>
       </td>
     </tr>
   </tbody>

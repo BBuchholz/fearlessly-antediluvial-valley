@@ -16,7 +16,7 @@ const router = createRouter({
       component: () => import("../views/SignIn.vue"),
     },
     {
-      path: "/awlwl",
+      path: "/0",
       component: () => import("../views/AWLWL.vue"),
     },
     {

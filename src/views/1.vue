@@ -15,6 +15,7 @@
         <th class="tg-e45j">Δ</th>
         <th class="tg-e45j">Σ</th>
         <th class="tg-e45j">Θ</th>
+        <th class="tg-e45j">Φ</th>
       </tr>
     </thead>
     <tbody>
@@ -22,13 +23,15 @@
         <td class="tg-e45j"></td>
         <td class="tg-e45j">
           <router-link to="1">1</router-link>
+          <router-link to="1">1</router-link>
+        </td>
+        <td class="tg-e45j">
+          <router-link to="2">2</router-link>
         </td>
         <td class="tg-e45j">
           <router-link to="1">1</router-link>
         </td>
-        <td class="tg-e45j">
-          <router-link to="1">1</router-link>
-        </td>
+        <td class="tg-e45j">0</td>
       </tr>
     </tbody>
     </table>
