@@ -4,30 +4,51 @@
     </p>
     <p>Also, add PHLAT associations</p>
     <table class="tg">
-    <thead>
-      <tr>
-        <th class="tg-e45j">Ψ</th>
-        <th class="tg-e45j">Δ</th>
-        <th class="tg-e45j">Σ</th>
-        <th class="tg-e45j">Θ</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-e45j">
-          <router-link to="2">2</router-link>
-        </td>
-        <td class="tg-e45j">
-          <router-link to="1">1</router-link>
-        </td>
-        <td class="tg-e45j">
-          <router-link to="3">3</router-link>
-        </td>
-        <td class="tg-e45j">
-          <router-link to="2">2</router-link>
-        </td>
-      </tr>
-    </tbody>
+      <thead>
+        <tr>
+          <th class="tg-e45j">Ψ</th>
+          <th class="tg-e45j">Δ</th>
+          <th class="tg-e45j">Σ</th>
+          <th class="tg-e45j">Θ</th>
+          <th class="tg-e45j">Φ</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tg-e45j">
+            <router-link to="4">4</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="1">1</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="5">5</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="4">4</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="0">0</router-link>
+          </td>
+        </tr>
+        <tr>
+          <td class="tg-e45j">
+            <router-link to="2">2</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="3">3</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="5">5</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="6">6</router-link>
+          </td>
+          <td class="tg-e45j">
+            <router-link to="2">2</router-link>
+          </td>
+        </tr>
+      </tbody>
     </table>
   </template>
   <style type="text/css">
