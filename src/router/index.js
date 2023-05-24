@@ -12,6 +12,10 @@ const router = createRouter({
       component: () => import("../views/Register.vue"),
     },
     {
+      path: "/alefcet",
+      component: () => import("../views/AlefCet.vue"),
+    },
+    {
       path: "/sign-in",
       component: () => import("../views/SignIn.vue"),
     },

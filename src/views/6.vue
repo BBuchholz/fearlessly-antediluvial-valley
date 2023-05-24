@@ -8,7 +8,9 @@
         <tr>
           <th class="tg-e45j">Ψ</th>
           <th class="tg-e45j">Δ</th>
-          <th class="tg-e45j">Σ</th>
+          <th class="tg-e45j">
+            <router-link to="alefcet">Σ</router-link>
+          </th>
           <th class="tg-e45j">Θ</th>
           <th class="tg-e45j">Φ</th>
         </tr>
