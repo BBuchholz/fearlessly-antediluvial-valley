@@ -6,6 +6,8 @@
         <th class="tg-e45j">Value</th>
         <th class="tg-e45j">Position</th>
         <th class="tg-e45j">Notes</th>
+        <th class="tg-e45j">Cognates</th>
+        <th class="tg-e45j">Cognate Notes</th>
     </tr>
     </thead>
     <tbody>
@@ -14,11 +16,15 @@
         <td class="tg-e45j">0</td>
         <td class="tg-e45j">0</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">C</td>
         <td class="tg-e45j">1</td>
         <td class="tg-e45j">1</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -26,11 +32,15 @@
         <td class="tg-e45j">2</td>
         <td class="tg-e45j">2</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">G</td>
         <td class="tg-e45j">3</td>
         <td class="tg-e45j">3</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -38,11 +48,15 @@
         <td class="tg-e45j">4</td>
         <td class="tg-e45j">4</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">S</td>
         <td class="tg-e45j">5</td>
         <td class="tg-e45j">5</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -50,17 +64,23 @@
         <td class="tg-e45j">6</td>
         <td class="tg-e45j">6</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">X</td>
         <td class="tg-e45j">7</td>
         <td class="tg-e45j">7</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">O</td>
         <td class="tg-e45j">8</td>
         <td class="tg-e45j">8</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -73,18 +93,24 @@
         <td class="tg-e45j">J</td>
         <td class="tg-e45j">10</td>
         <td class="tg-e45j">10</td>
-        <td class="tg-e45j">"Next We B, A J for..."</td>
+        <td class="tg-e45j">"Next We B, A J..."</td>
+        <td class="tg-e45j">ᛃ (Jera) | י (Yod) </td>
+        <td class="tg-e45j">"A Year..." | "A Hand..."</td>
     </tr>
     <tr>
         <td class="tg-e45j">K</td>
         <td class="tg-e45j">20</td>
         <td class="tg-e45j">11</td>
-        <td class="tg-e45j">"...tha K"</td>
+        <td class="tg-e45j">"...4 tha K"</td>
+        <td class="tg-e45j">ᚲ (Kaun) | כ (Kaph)</td>
+        <td class="tg-e45j">"...4 tha Kenning" | "...4 tha Palm"</td>
     </tr>
     <tr>
         <td class="tg-e45j">L</td>
         <td class="tg-e45j">30</td>
         <td class="tg-e45j">12</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -92,11 +118,15 @@
         <td class="tg-e45j">40</td>
         <td class="tg-e45j">13</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">N</td>
         <td class="tg-e45j">50</td>
         <td class="tg-e45j">14</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -109,6 +139,8 @@
         <td class="tg-e45j">P</td>
         <td class="tg-e45j">70</td>
         <td class="tg-e45j">16</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -127,6 +159,8 @@
         <td class="tg-e45j">F</td>
         <td class="tg-e45j">100</td>
         <td class="tg-e45j">19</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -152,11 +186,15 @@
         <td class="tg-e45j">500</td>
         <td class="tg-e45j">23</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">I</td>
         <td class="tg-e45j">600</td>
         <td class="tg-e45j">24</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -164,11 +202,15 @@
         <td class="tg-e45j">700</td>
         <td class="tg-e45j">25</td>
         <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
     </tr>
     <tr>
         <td class="tg-e45j">Y</td>
         <td class="tg-e45j">800</td>
         <td class="tg-e45j">26</td>
+        <td class="tg-e45j"></td>
+        <td class="tg-e45j"></td>
         <td class="tg-e45j"></td>
     </tr>
     <tr>
@@ -176,6 +218,8 @@
         <td class="tg-e45j">900</td>
         <td class="tg-e45j">27</td>
         <td class="tg-e45j">Moment Eternal</td>
+        <td class="tg-e45j">(YOU'RE IN IT)</td>
+        <td class="tg-e45j"></td>
     </tr>
     </tbody>
     </table>
