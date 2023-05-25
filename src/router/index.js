@@ -21,7 +21,7 @@ const router = createRouter({
     },
     {
       path: "/0",
-      component: () => import("../views/AWLWL.vue"),
+      component: () => import("../views/AWLWA.vue"),
     },
     {
       path: "/feed",

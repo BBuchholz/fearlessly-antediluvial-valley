@@ -67,13 +67,13 @@
         <td class="tg-e45j">Th</td>
         <td class="tg-e45j">9</td>
         <td class="tg-e45j">9</td>
-        <td class="tg-e45j">Intonation as "Thridi"</td>
+        <td class="tg-e45j">Intonation as ᚦᚱᛁᛞᛁ</td>
     </tr>
     <tr>
         <td class="tg-e45j">J</td>
         <td class="tg-e45j">10</td>
         <td class="tg-e45j">10</td>
-        <td class="tg-e45j">"J for..."</td>
+        <td class="tg-e45j">"Next We B, A J for..."</td>
     </tr>
     <tr>
         <td class="tg-e45j">K</td>
@@ -121,7 +121,7 @@
         <td class="tg-e45j">R</td>
         <td class="tg-e45j">90</td>
         <td class="tg-e45j">18</td>
-        <td class="tg-e45j"></td>
+        <td class="tg-e45j">ᚱᚨᛏᚨᛏᛟᛊᚲᚱ</td>
     </tr>
     <tr>
         <td class="tg-e45j">F</td>

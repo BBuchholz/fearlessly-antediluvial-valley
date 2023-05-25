@@ -1,5 +1,5 @@
 <template>
-  <h1> AWLWL CarteoGraphy </h1>
+  <h1> AWLWA CarteoGraphy </h1>
   
   <table class="tg">
   <thead>
