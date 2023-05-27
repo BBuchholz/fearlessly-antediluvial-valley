@@ -1,4 +1,25 @@
 <template>
+    <p>
+        The Typhonic Craft Tradition utilizes the AlefCet (see table below) as its Qabbalistic Tarot System, for reasons revealed to initiates 
+    </p>
+    <p>
+        (Prospective and Aspiring Candidates will receive background revelations as are relevant to degrees of obtainment previously explored). 
+    </p>
+    <p>
+        The history of this is not entirely secret however, and 
+        curious outsiders can be informed as to the general origins the Tradition (those who belong here will figure it out anyways, and those who don't won't see it even in front of their face, much of what is revealed to both Prospective and Aspiring Candidates is merely a sequence of discovery cultivated to be most expedient.)
+    </p>
+    <p>
+        A Couple Decades Back (literally, it's 
+        been a while), founding members were working with 
+        material from various sources but found a strong 
+        resonance between the Typhonian Trilogies of Kenneth 
+        Grant and also The Pillars of Tubal Cain by Nigel 
+        Jackson and Michael Howard. The intersection of these 
+        two contexts, along with a great deal of previous 
+        involvements with Gnostic Hermeticism and Alchemical 
+        Philosophies gave birth to what became the Typhonic Craft Tradition (referred to often as TCT).
+    </p>
     <table class="tg">
     <thead>
     <tr>
