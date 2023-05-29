@@ -24,6 +24,10 @@ const router = createRouter({
       component: () => import("../views/SignIn.vue"),
     },
     {
+      path: "/goals",
+      component: () => import("../views/GoalsAndAims.vue"),
+    },
+    {
       path: "/0",
       component: () => import("../views/AWLWA.vue"),
     },

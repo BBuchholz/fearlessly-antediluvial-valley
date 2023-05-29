@@ -1,14 +1,5 @@
 <template>
     <p>
-        Goals and Aims (inspired by the book Show Your Work, we’re doing our rough drafts semi-live for versioning history in Git through the website)
-    </p>
-    <p>
-        Reveal Bits and Pieces as we Recall Them (the strongest memories are the most fundamental)
-    </p>
-    <p>
-        Relate how each found you, what the earliest city you remember reading this in (place is so important, as the ideas were merely the recipes but the ingredients for what was done with those recipes came from the local landscape, AS IS ALWAYS THE CASE)
-    </p>
-    <p>
         A History ov tha TCT
     </p>
     <p>
