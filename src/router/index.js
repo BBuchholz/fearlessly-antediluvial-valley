@@ -12,6 +12,10 @@ const router = createRouter({
       component: () => import("../views/Register.vue"),
     },
     {
+      path: "/history",
+      component: () => import("../views/HistoryOvThaTCT.vue"),
+    },
+    {
       path: "/alefcet",
       component: () => import("../views/AlefCet.vue"),
     },

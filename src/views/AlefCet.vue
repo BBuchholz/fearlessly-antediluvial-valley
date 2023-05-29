@@ -20,6 +20,9 @@
         involvements with Gnostic Hermeticism and Alchemical 
         Philosophies gave birth to what became the Typhonic Craft Tradition (referred to often as TCT).
     </p>
+    <p>
+        THIS IS A WORK IN PROGRESS, FOR A MORE EXTENSIVE HISTORY SEE <router-link to="history">THE HISTORY TAB</router-link>
+    </p>
     <table class="tg">
     <thead>
     <tr>
