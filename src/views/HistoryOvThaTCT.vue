@@ -27,36 +27,80 @@
     <p>
         In no particular order, the most influential books from the New London era were
     </p>
-    <p>
-        New Millenium Magick, by Donal Tyson
-        The Satanic Bible, by Anton LaVey
-        Witchcraft Today, by Scott Cunningham
-        Crystal, Gem, and Metal Magick, by Scott Cunningham
-        Buckland’s Blue Book
-    </p>
+    <ul>
+        <li>
+            <p>New Millenium Magic, by Donald Tyson</p>
+            <img 
+                alt="New Millenium Magic, by Donald Tyson"
+                src="/NEW_MILLENIUM_MAGIC_COVER.png"
+            >
+        </li>
+        <li>The Satanic Bible, by Anton LaVey</li>
+        <li>
+            <p>The Satanic Witch, by Anton LaVey</p>
+            <img 
+                alt="The Satanic Witch, by Anton LaVey"
+                src="/THE_SATANIC_WITCH_COVER.png"
+            >
+        </li>
+        <li>Magick In Theory And Practice, by Crowley</li>
+        <li>
+            <p>777, by Aleister Crowley</p>
+            <img 
+                alt="777, by Aleister Crowley"
+                src="/777_COVER.png"
+            >
+        </li>
+        <li>
+            <p></p>
+            <img 
+                alt="The Golden Dawn by Israel Regardie" 
+                src="/THE_GOLDEN_DAWN_COVER.png"
+            >
+        </li>
+        <li>Witchcraft Today, by Scott Cunningham</li>
+        <li>True Magick, by Amber K</li>
+        <li>Crystal, Gem, and Metal Magick, by Scott Cunningham (was one of the first, before anything more occult was explored, started with crystals in my early youth)</li>
+        <li>Buckland’s Blue Book</li>
+    </ul>
     <p>
         Madison saw the inclusion of Chaos Magick and Typhonian Currents and also a deepening of Thelema 
     </p>
-    <p>
-        Nightside of Eden 
-        Cults of the Shadow
-        Liber Null & Psychonaut
-        Psybermagick
-        Liber Chaos
-        Liber Aleph
-        AOS fulgur reprints
-        Pillars of Tubal Cain
-    </p>
+    <ul>
+        <li>
+            <p>The GARGANTUAN Hardcover Edition of Book Four was released about the same time the founding members arrived in Madison, and became a huge influence on all later thought (though admittedly Kenneth Anger's admonition at the legendary Disinfo Conference about "old aeon attitudes" towards the book were echoed by the members, the source material was absolutely fundamental to the establishement of the Traditions beginnings, tha TCT is QUASI-THELEMIC through and through)</p>
+            <img 
+                alt="Hardcover Edition of Book Four, Liber ABA, by Crowley" 
+                src="/LIBER_ABA_COVER.png"
+            >
+        </li>
+        <li>
+            <p>Nightside of Eden, by Kenneth Grant</p>
+            <img
+                alt="Nightside of Eden, by Kenneth Grant"
+                src="public/NIGHTSIDE_OF_EDEN_COVER.png"
+            >
+        </li>
+        <li>Book of Lies</li>
+        <li>Prometheus Rising, by Robert Anton Wilson</li>
+        <li>Cults of the Shadow</li>
+        <li>Liber Null & Psychonaut</li>
+        <li>Psybermagick</li>
+        <li>Liber Chaos</li>
+        <li>Liber Aleph</li>
+        <li>AOS fulgur reprints</li>
+        <li>Pillars of Tubal Cain</li>
+    </ul>
     <p>
         Minneapolis continued the depths
     </p>
-    <p>
-        more AOS
-        darker zines from Magus Books
-        Luciferian path stuff
-        Behutet zine
-        Clavicula Nox zine
-    </p>
+    <ul>
+        <li>more AOS</li>
+        <li>darker zines from Magus Books</li>
+        <li>Luciferian path stuff</li>
+        <li>Behutet zine</li>
+        <li>Clavicula Nox zine</li>
+    </ul>
     <p>
         Waupaca refined the Pagan aspects
     </p>
