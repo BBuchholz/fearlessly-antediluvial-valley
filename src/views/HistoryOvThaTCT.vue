@@ -78,7 +78,7 @@
             <p>Nightside of Eden, by Kenneth Grant</p>
             <img
                 alt="Nightside of Eden, by Kenneth Grant"
-                src="public/NIGHTSIDE_OF_EDEN_COVER.png"
+                src="/NIGHTSIDE_OF_EDEN_COVER.png"
             >
         </li>
         <li>Book of Lies</li>
