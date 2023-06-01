@@ -1,3 +1,68 @@
+<script setup>
+
+  import { ref } from 'vue'
+
+  import StepInStone from '../components/StepInStone.vue'
+
+  const newLondonStepWxrds = ref([
+    {
+      wxrdvalue: 'Liber ABA',
+      wxrdtype: 'BoK',
+      content: 'Magick In Theory And Practice (Book 4) - Liber ABA, by Aleister Crowley',
+      related: 'Thelema, Hermeticism, Gnosticism (Pythagorean)',
+      uuid: '741a8d5a-a7ce-40c4-a913-12d6eb2acd2b',
+      image: 'LIBER_ABA_COVER.png'
+    },
+    {
+      wxrdvalue: 'The Satanic Witch',
+      wxrdtype: 'BoK',
+      content: 'The Satanic Witch, by Anton Szandor LaVey',
+      related: 'Atheistic Satanism, Black Circle Gnosis Brand',
+      uuid: 'dab7fa7b-800b-417f-9424-ee5d510456ef',
+      image: 'THE_SATANIC_WITCH_COVER.png'
+    }
+  ])
+
+  const madisonStepWxrds = ref([
+    {
+      wxrdvalue: 'Liber ABA',
+      wxrdtype: 'BoK',
+      content: 'Magick In Theory And Practice (Book 4) - Liber ABA, by Aleister Crowley',
+      related: 'Thelema, Hermeticism, Gnosticism (Pythagorean)',
+      uuid: '741a8d5a-a7ce-40c4-a913-12d6eb2acd2b',
+      image: 'LIBER_ABA_COVER.png'
+    },
+    {
+      wxrdvalue: 'The Satanic Witch',
+      wxrdtype: 'BoK',
+      content: 'The Satanic Witch, by Anton Szandor LaVey',
+      related: 'Atheistic Satanism, Black Circle Gnosis Brand',
+      uuid: 'dab7fa7b-800b-417f-9424-ee5d510456ef',
+      image: 'THE_SATANIC_WITCH_COVER.png'
+    }
+  ])
+
+  const mplsStepWxrds = ref([
+    {
+      wxrdvalue: 'Liber ABA',
+      wxrdtype: 'BoK',
+      content: 'Magick In Theory And Practice (Book 4) - Liber ABA, by Aleister Crowley',
+      related: 'Thelema, Hermeticism, Gnosticism (Pythagorean)',
+      uuid: '741a8d5a-a7ce-40c4-a913-12d6eb2acd2b',
+      image: 'LIBER_ABA_COVER.png'
+    },
+    {
+      wxrdvalue: 'The Satanic Witch',
+      wxrdtype: 'BoK',
+      content: 'The Satanic Witch, by Anton Szandor LaVey',
+      related: 'Atheistic Satanism, Black Circle Gnosis Brand',
+      uuid: 'dab7fa7b-800b-417f-9424-ee5d510456ef',
+      image: 'THE_SATANIC_WITCH_COVER.png'
+    }
+  ])
+
+</script>
+
 <template>
     <p>
         A History ov tha TCT
@@ -63,6 +128,17 @@
         <li>Crystal, Gem, and Metal Magick, by Scott Cunningham (was one of the first, before anything more occult was explored, started with crystals in my early youth)</li>
         <li>Buckland’s Blue Book</li>
     </ul>
+
+    <StepInStone
+        v-for="wxrd in newLondonStepWxrds"
+        :uuid="wxrd.uuid"
+        :wxrdvalue="wxrd.wxrdvalue"
+        :wxrdtype = "wxrd.wxrdtype"
+        :content = "wxrd.content"
+        :related = "wxrd.related"
+        :image = "wxrd.image"
+    />
+
     <p>
         Madison saw the inclusion of Chaos Magick and Typhonian Currents and also a deepening of Thelema 
     </p>
@@ -91,6 +167,17 @@
         <li>AOS fulgur reprints</li>
         <li>Pillars of Tubal Cain</li>
     </ul>
+
+    <StepInStone
+        v-for="wxrd in madisonStepWxrds"
+        :uuid="wxrd.uuid"
+        :wxrdvalue="wxrd.wxrdvalue"
+        :wxrdtype = "wxrd.wxrdtype"
+        :content = "wxrd.content"
+        :related = "wxrd.related"
+        :image = "wxrd.image"
+    />
+
     <p>
         Minneapolis continued the depths
     </p>
@@ -101,6 +188,18 @@
         <li>Behutet zine</li>
         <li>Clavicula Nox zine</li>
     </ul>
+
+
+    <StepInStone
+        v-for="wxrd in mplsStepWxrds"
+        :uuid="wxrd.uuid"
+        :wxrdvalue="wxrd.wxrdvalue"
+        :wxrdtype = "wxrd.wxrdtype"
+        :content = "wxrd.content"
+        :related = "wxrd.related"
+        :image = "wxrd.image"
+    />
+
     <p>
         Waupaca refined the Pagan aspects
     </p>

@@ -17,7 +17,7 @@
       wxrdvalue: 'The Satanic Witch',
       wxrdtype: 'BoK',
       content: 'The Satanic Witch, by Anton Szandor LaVey',
-      related: 'Atheistic Satanism, Branded Gnosticism',
+      related: 'Atheistic Satanism, Black Circle Gnosis Brand',
       uuid: 'dab7fa7b-800b-417f-9424-ee5d510456ef',
       image: 'THE_SATANIC_WITCH_COVER.png'
     }
