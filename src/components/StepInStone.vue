@@ -27,3 +27,12 @@ const props = defineProps({
 
     </div>
 </template>
+
+<style>
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+</style>
