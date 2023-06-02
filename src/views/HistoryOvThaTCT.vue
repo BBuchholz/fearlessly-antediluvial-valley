@@ -6,20 +6,36 @@
 
   const newLondonStepWxrds = ref([
     {
-      wxrdvalue: 'Liber ABA',
+      wxrdvalue: 'New Millenium Magic',
       wxrdtype: 'BoK',
-      content: 'Magick In Theory And Practice (Book 4) - Liber ABA, by Aleister Crowley',
-      related: 'Thelema, Hermeticism, Gnosticism (Pythagorean)',
-      uuid: '741a8d5a-a7ce-40c4-a913-12d6eb2acd2b',
-      image: 'LIBER_ABA_COVER.png'
+      content: 'New Millenium Magic, by Donald Tyson',
+      related: '',
+      uuid: '205963c0-2715-48a4-af7b-2c5bc7112cff',
+      image: 'NEW_MILLENIUM_MAGIC_COVER.png'
     },
     {
       wxrdvalue: 'The Satanic Witch',
       wxrdtype: 'BoK',
-      content: 'The Satanic Witch, by Anton Szandor LaVey',
-      related: 'Atheistic Satanism, Black Circle Gnosis Brand',
-      uuid: 'dab7fa7b-800b-417f-9424-ee5d510456ef',
+      content: 'The Satanic Witch, by Anton LaVey',
+      related: '',
+      uuid: '93288abc-266a-429a-b780-9218d0268a3b',
       image: 'THE_SATANIC_WITCH_COVER.png'
+    },
+    {
+      wxrdvalue: '777',
+      wxrdtype: 'BoK',
+      content: '777, by Aleister Crowley',
+      related: '',
+      uuid: '0c85589f-a4f4-4d5c-8baf-baf1b0492506',
+      image: '777_COVER.png'
+    },
+    {
+      wxrdvalue: 'The Golden Dawn',
+      wxrdtype: 'BoK',
+      content: 'The Golden Dawn, by Israel Regardie',
+      related: '',
+      uuid: '4fa09bb9-7056-4d15-9003-f8ec606d4c24',
+      image: 'THE_GOLDEN_DAWN_COVER.png'
     }
   ])
 
@@ -33,31 +49,31 @@
       image: 'LIBER_ABA_COVER.png'
     },
     {
-      wxrdvalue: 'The Satanic Witch',
+      wxrdvalue: 'Nightside of Eden',
       wxrdtype: 'BoK',
-      content: 'The Satanic Witch, by Anton Szandor LaVey',
-      related: 'Atheistic Satanism, Black Circle Gnosis Brand',
-      uuid: 'dab7fa7b-800b-417f-9424-ee5d510456ef',
-      image: 'THE_SATANIC_WITCH_COVER.png'
+      content: 'Nightside of Eden, by Kenneth Grant',
+      related: '',
+      uuid: '2adb376c-513a-43e4-a93f-051962577504',
+      image: 'NIGHTSIDE_OF_EDEN_COVER.png'
     }
   ])
 
   const mplsStepWxrds = ref([
     {
-      wxrdvalue: 'Liber ABA',
-      wxrdtype: 'BoK',
-      content: 'Magick In Theory And Practice (Book 4) - Liber ABA, by Aleister Crowley',
-      related: 'Thelema, Hermeticism, Gnosticism (Pythagorean)',
-      uuid: '741a8d5a-a7ce-40c4-a913-12d6eb2acd2b',
-      image: 'LIBER_ABA_COVER.png'
+      wxrdvalue: 'Behutet',
+      wxrdtype: 'ZiNe',
+      content: 'Behutet',
+      related: '',
+      uuid: 'b537d0c7-faa3-4676-8c51-fb1c252190c9',
+      image: 'BEHUTET_MAGAZINE_COVER.png'
     },
     {
-      wxrdvalue: 'The Satanic Witch',
-      wxrdtype: 'BoK',
-      content: 'The Satanic Witch, by Anton Szandor LaVey',
-      related: 'Atheistic Satanism, Black Circle Gnosis Brand',
-      uuid: 'dab7fa7b-800b-417f-9424-ee5d510456ef',
-      image: 'THE_SATANIC_WITCH_COVER.png'
+      wxrdvalue: 'Clavicula Nox',
+      wxrdtype: 'ZiNe',
+      content: 'Clavicula Nox',
+      related: '',
+      uuid: 'f2bd5d47-8e32-4b5d-ae5f-fd9a252c4d94',
+      image: ''
     }
   ])
 
@@ -93,36 +109,6 @@
         In no particular order, the most influential books from the New London era were
     </p>
     <ul>
-        <li>
-            <p>New Millenium Magic, by Donald Tyson</p>
-            <img 
-                alt="New Millenium Magic, by Donald Tyson"
-                src="/NEW_MILLENIUM_MAGIC_COVER.png"
-            >
-        </li>
-        <li>The Satanic Bible, by Anton LaVey</li>
-        <li>
-            <p>The Satanic Witch, by Anton LaVey</p>
-            <img 
-                alt="The Satanic Witch, by Anton LaVey"
-                src="/THE_SATANIC_WITCH_COVER.png"
-            >
-        </li>
-        <li>Magick In Theory And Practice, by Crowley</li>
-        <li>
-            <p>777, by Aleister Crowley</p>
-            <img 
-                alt="777, by Aleister Crowley"
-                src="/777_COVER.png"
-            >
-        </li>
-        <li>
-            <p></p>
-            <img 
-                alt="The Golden Dawn by Israel Regardie" 
-                src="/THE_GOLDEN_DAWN_COVER.png"
-            >
-        </li>
         <li>Witchcraft Today, by Scott Cunningham</li>
         <li>True Magick, by Amber K</li>
         <li>Crystal, Gem, and Metal Magick, by Scott Cunningham (was one of the first, before anything more occult was explored, started with crystals in my early youth)</li>
@@ -142,21 +128,12 @@
     <p>
         Madison saw the inclusion of Chaos Magick and Typhonian Currents and also a deepening of Thelema 
     </p>
+
+    <p>
+        The GARGANTUAN Hardcover Edition of Book Four was released about the same time the founding members arrived in Madison, and became a huge influence on all later thought (though admittedly Kenneth Anger's admonition at the legendary Disinfo Conference about "old aeon attitudes" towards the book were echoed by the members, the source material was absolutely fundamental to the establishement of the Traditions beginnings, tha TCT is QUASI-THELEMIC through and through)
+    </p>
+            
     <ul>
-        <li>
-            <p>The GARGANTUAN Hardcover Edition of Book Four was released about the same time the founding members arrived in Madison, and became a huge influence on all later thought (though admittedly Kenneth Anger's admonition at the legendary Disinfo Conference about "old aeon attitudes" towards the book were echoed by the members, the source material was absolutely fundamental to the establishement of the Traditions beginnings, tha TCT is QUASI-THELEMIC through and through)</p>
-            <img 
-                alt="Hardcover Edition of Book Four, Liber ABA, by Crowley" 
-                src="/LIBER_ABA_COVER.png"
-            >
-        </li>
-        <li>
-            <p>Nightside of Eden, by Kenneth Grant</p>
-            <img
-                alt="Nightside of Eden, by Kenneth Grant"
-                src="/NIGHTSIDE_OF_EDEN_COVER.png"
-            >
-        </li>
         <li>Book of Lies</li>
         <li>Prometheus Rising, by Robert Anton Wilson</li>
         <li>Cults of the Shadow</li>
