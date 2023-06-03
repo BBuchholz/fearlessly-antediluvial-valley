@@ -55,8 +55,18 @@
       related: '',
       uuid: '2adb376c-513a-43e4-a93f-051962577504',
       image: 'NIGHTSIDE_OF_EDEN_COVER.png'
+    },
+    {
+      wxrdvalue: 'The Pillars Of Tubal Cain',
+      wxrdtype: 'BoK',
+      content: 'The Pillars Of Tubal Cain, by Nigel Jackson and Michael Howard',
+      related: '',
+      uuid: 'efc566d7-8608-4e7b-b8dd-7ef653c56069',
+      image: 'THE_PILLARS_OF_TUBAL_CAIN.png'
     }
   ])
+
+  
 
   const mplsStepWxrds = ref([
     {
@@ -76,6 +86,7 @@
       image: ''
     }
   ])
+
 
 </script>
 
@@ -142,7 +153,6 @@
         <li>Liber Chaos</li>
         <li>Liber Aleph</li>
         <li>AOS fulgur reprints</li>
-        <li>Pillars of Tubal Cain</li>
     </ul>
 
     <StepInStone
